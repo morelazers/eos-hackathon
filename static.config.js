@@ -14,6 +14,10 @@ export default {
         component: 'src/containers/Camera'
       },
       {
+        path: '/map',
+        component: 'src/containers/Map'
+      },
+      {
         path: '/about',
         component: 'src/containers/About'
       },
